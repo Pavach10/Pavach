@@ -1,0 +1,47 @@
+/* COLORS */
+.dark_plus_cl {
+    color:#1e233a;
+}
+
+.dark_cl {
+    color:#444b66;
+}
+
+.light_cl {
+    color:#96A3DA;
+}
+
+.light_plus_cl {
+    color:#fff;
+}
+
+.special_cl {
+    color:#da1f16;
+}
+
+/* BACKGROUNDS */
+
+.dark_plus_bg {
+    background:#1e233a;
+}
+
+.dark_bg {
+    background:#444b66;
+}
+
+.light_bg {
+    background:#96A3DA;
+}
+
+.light_plus_bg {
+    background:#fff;
+}
+
+.special_bg {
+    background:#da1f16;
+}
+
+::selection {
+    background: #da1f16;
+    color: #fff;
+}
